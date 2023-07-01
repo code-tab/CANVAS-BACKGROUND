@@ -5,7 +5,7 @@ Features:
 - Create custom backgrounds using HTML5 Canvas
 - Select colors, gradients, patterns, and effects
 - Real-time preview of background changes
-- Download canvas generated backgrounds as image files
+- Copy the live generated canvas generated backgrounds code and use in another project.
 - Simple and intuitive user interface
 
 Requirements:
